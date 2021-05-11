@@ -1,0 +1,49 @@
+
+
+@media (max-width: 500px){
+    
+    
+    .about{
+        background: #000; 
+        width: 100%;
+     }
+     
+    
+     .about .content{
+
+        flex-direction: column;
+        
+        }
+        
+        .about .content .textBx{
+        
+        min-width:100%;
+        width:100%;
+        text-align: justify;
+        
+        }
+        
+        .about .content{
+        
+        margin-top: 0;
+        }
+        
+        
+        .about .content .imgbx{
+        
+        margin-left: 0;
+        }
+
+
+        .img-icon{
+           margin-left: 20px;
+        }
+
+        .img-icon img{
+            margin-left: 0;
+         }
+      
+     
+  
+  
+}   
